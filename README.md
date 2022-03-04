@@ -1,5 +1,6 @@
 # Machine-Learning-Visualization-Matplotlib
 ## What you can learn from it?
+https://media.giphy.com/media/ggQebfDS4oBaavVjNu/giphy.gif
 1. Visualizing a Function as an Image and a Contour.
 2. You can visualize the function as a contour too.
 3. You can create a 3D vignette visualization.
