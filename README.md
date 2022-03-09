@@ -11,7 +11,7 @@
 9. Hexbins Plots.
 10. You can visualize plots in the XKCD style. The XKCD is a popular a web comic. 
 11. You can visualize 2D histograms too in the same way.
-
+12. learned about histogram
  This Matplotlib practice code series will help the learners to get a better understanding of its use in Python for Data Science and Machine Learning.
 
 ![image](https://user-images.githubusercontent.com/88158022/156791465-507b93e9-f1b2-48c4-b14b-cf82d30190fd.png)
