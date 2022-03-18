@@ -25,6 +25,4 @@
 
 
 
-**hhheeheh**
-![AkshayKumarMemeGIF](https://user-images.githubusercontent.com/88158022/158961767-a2368ae7-2c7d-43b8-bd0e-d9e4b1484a41.gif)
 
